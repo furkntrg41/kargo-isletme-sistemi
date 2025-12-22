@@ -1,0 +1,6 @@
+@KargoBackend_HostAddress = http://localhost:5225
+
+GET {{KargoBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
